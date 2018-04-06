@@ -1,0 +1,4 @@
+<span class="pui-btn--main">主要</span>
+<span class="pui-btn--success">成功</span>
+<span class="pui-btn--danger">重视</span>
+<span class="pui-btn--border">边框</span>

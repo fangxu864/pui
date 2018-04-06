@@ -1,0 +1,5 @@
+<div style="width: 150px;">
+    <div class="pui-dateinp">
+        <input class="pui-dateinp__inp" placeholder="请选择日期" type="text">
+    </div>
+</div>
